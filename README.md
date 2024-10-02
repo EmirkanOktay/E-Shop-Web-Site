@@ -32,10 +32,24 @@ E-Shop Web Site is a simple e-commerce application that allows users to browse p
 
 ```bash
 cd E-Shop-Web-Site
-
+```
+```bash
 npm install
+npm install @mui/material @emotion/react @emotion/styled @reduxjs/toolkit react-redux axios react-icons react-router-dom
+ ```
+```bash
+npm install
+```
 
+```bash
 npm start
+```
+
+##Usage 
+Once the application is running, you can navigate through the product listings, add items to your cart, and view your cart's contents.
+
+
+
 
 
 
