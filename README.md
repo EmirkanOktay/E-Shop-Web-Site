@@ -26,10 +26,9 @@ E-Shop Web Site is a simple e-commerce application that allows users to browse p
 ### Steps
 
 1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/EmirkanOktay/E-Shop-Web-Site.git
-
+```bash
+git clone https://github.com/EmirkanOktay/E-Shop-Web-Site.git
+```
 ```bash
 cd E-Shop-Web-Site
 ```
@@ -45,7 +44,7 @@ npm install
 npm start
 ```
 
-##Usage 
+## Usage
 Once the application is running, you can navigate through the product listings, add items to your cart, and view your cart's contents.
 
 
