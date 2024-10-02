@@ -1,0 +1,35 @@
+.details {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.imageDetail {
+    width: 330px;
+    height: 500px;
+    margin-right: 20px;
+
+}
+
+.titleDetail {
+    font-size: 30px;
+    margin-bottom: 30px;
+    font-size: 30px;
+}
+
+.descDetail {
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.priceDetail {
+    margin-top: 50px;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+
+.icons {
+    font-size: 30px;
+    margin-top: 20px;
+}

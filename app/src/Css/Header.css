@@ -1,0 +1,76 @@
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.logo {
+    font-size: 35px;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+.logo,
+input,
+.icon {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+input {
+    border: none;
+    outline: none;
+    border-bottom: 1px solid;
+    height: 25px;
+    width: 170px;
+}
+
+.right {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.basket {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.basket img {
+    border-radius: 8px;
+}
+
+.basket div {
+    margin: 0 10px;
+}
+
+.basket div:last-child {
+    cursor: pointer;
+    color: red;
+}
+
+.total-price {
+    font-weight: bold;
+    font-size: 18px;
+    text-align: right;
+    margin: 20px 0;
+    margin-top: 50px;
+}
